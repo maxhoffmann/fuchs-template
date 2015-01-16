@@ -1,6 +1,6 @@
 {
   "name": "fuchs-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "minimum templating engine by thomas fuchs",
   "main": "index.js",
   "repository": {
