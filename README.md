@@ -17,10 +17,10 @@ var t = require('fuchs-template');
 t('Hello {name}, how are you?', { name: 'Max'});
 // "Hello Max, how are you?"
 
-t('I write {language} for a living, but it doesn’t mean I think {language} is the best language ever.', { language: 'JavaScript'});
-// I write JavaScript for a living, but it doesn’t mean I think JavaScript is the best language ever.
+t('{thing} {thing} {thing}!', { thing: 'Developers' });
+// Developers Developers Developers!
 ```
 
 ## LICENSE
 
-MIT License (2014) Maximilian Hoffmann
+MIT License (2015) Maximilian Hoffmann
