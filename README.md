@@ -1,4 +1,4 @@
-# fuchs-template
+# fuchs-template [![version][1]][2]
 minimum templating engine by thomas fuchs
 
 further information: http://mir.aculo.us/2011/03/09/little-helpers-a-tweet-sized-javascript-templating-engine/
@@ -24,3 +24,6 @@ t('{thing} {thing} {thing}!', { thing: 'Developers' });
 ## LICENSE
 
 MIT License (2015) Maximilian Hoffmann
+
+[1]: http://img.shields.io/npm/v/fuchs-template.svg?style=flat
+[2]: https://www.npmjs.org/package/fuchs-template
